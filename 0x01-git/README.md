@@ -1,1 +1,1 @@
-ALX-PRE_COURSE README FILE
+Version Control with Git is awesome
